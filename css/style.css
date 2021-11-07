@@ -23,7 +23,7 @@
             .logo {
                 width: 140px;
                 height: 29.97px;
-                margin: 22px 13px;
+                margin: 16px 19px;
                 position: absolute;
             }
             
@@ -101,7 +101,7 @@
                 text-align: center;
                 justify-content: center;
                 align-items: center;
-                color: #eee;
+                color: #fff;
             }
             
             .icon2 {
@@ -279,7 +279,7 @@
                 position: absolute;
                 left: 74%;
                 top: 32px;
-                z-index: 1;
+                z-index: 12;
                 background: rgba(0, 0, 0, 0.8);
                 font-family: 'Roboto', Arial, Tahoma, sans-serif;
                 font-size: 11px;
